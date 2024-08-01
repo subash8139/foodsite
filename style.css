@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+body{
+    background-image: radial-gradient(rgb(105, 6, 6),rgb(14, 14, 13));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    
+    height: 100px;
+    margin: 50px 80px 0px 80px;
+}
+.life{
+    
+    color: aliceblue;
+    margin-top: -30px;
+    margin-left: 115px;
+    font-size: 30px;
+    font-family: rubik bubbles; 
+}
+.searchbar{
+    margin: 100px 0px 0px 0px;
+    border: none;
+    height: 35px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 4px rgba(112,6,6,1);
+
+}
+.fa-magnifying-glass{
+    margin: 9px;
+    color: white;
+}
+.search{
+    margin-top: -15px;
+    width: 250px;
+    height: 30px;
+    background-color: rgb(63, 9, 10);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.navlist{
+    display: flex;
+    margin: 100px 80px 0px 80px;
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+.navlist a{
+    background-color: rgb(63, 9, 10);
+    margin: 5px;
+    border-radius: 5px;
+    color: rgb(177, 125, 125);
+    font-size: 13px;
+    box-shadow: 0px 0px 20px -4px rgba(10,9,9,1);
+    transition: 1s;
+}
+.navlist a:hover{
+    background-color: rgb(248, 246, 246);
+    color: black;
+    box-shadow: 0px 0px 20px -4px rgb(233, 22, 22);
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.quotes{
+    margin: 200px 0px 0px 200px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.main1{
+    height: 400px;
+    margin: 30px 200px 0px 0px;
+}
+.topic{
+    color: rgb(85, 2, 2);
+    text-align: center;
+    margin: 100px;
+}
+hr{
+    width: 150px;
+    height: 5px;
+    border: none;
+    border-radius: 3px;
+    background-color:rgb(85, 2, 2);
+    margin-left: 500px;
+    
+}
+.food{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px 200px 50px 250px;
+}
+.food1{
+    margin: 5px;
+}
+.food3{
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+    transition: 1s;
+    position: relative;
+    opacity: 0.8;
+    
+}
+.food3:hover{
+    margin-top: -90px;
+    opacity: 1;
+    
+    
+}
+.food4{
+    margin-top: -200px;
+    margin-left: 60px;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
