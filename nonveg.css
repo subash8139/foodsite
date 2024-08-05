@@ -17,20 +17,134 @@ hr{
     margin-left: 500px;
     transition: 1s;
 }
-.flex1{
+.rosemilk1{
     display: flex;
-    flex-wrap: wrap;
-    margin: 100px 200px 50px 250px;
+    background-image: radial-gradient(white,rgb(161, 76, 7));
+    justify-content: space-between;   
+    height: 400px;
+    margin: 50px;
+    border-radius: 50px;
 }
-.flex3{
-    width: 250px;
+.rosemilk2{
+    margin-top: 30px;
     height: 350px;
-    border-radius: 10px;
-    transition: 1s;
-    margin: 50px 20px;
-    box-shadow: 0px 0px 6px 3px rgba(122,6,26,0.8);
+    width: 250px;
+    margin-left: 200px;
 }
-.flex2:hover{
-     margin-top: -10px;
-     transition: 1s;
+.rosemilk3{
+    width: 300px;
+    margin-top:110px;
+    margin-right:200px;
+}
+.rosemilk4{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(160, 88, 5);
+    font-weight: 900;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    
+}
+.price1{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mango1{
+    display: flex;
+    background-image: radial-gradient(white,rgb(207, 104, 35));
+    justify-content: space-between;   
+    height: 400px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.mango2{
+    margin-top: 110px;
+    margin-left: 250px;
+}
+.mango3{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(126, 53, 4);
+    font-weight: 900;
+}
+.p2{
+    font-size: 20px;
+    width: 300px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.price2{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mango4{
+    margin-right: 200px;
+}
+.lemon1{
+    display: flex;
+    background-image: radial-gradient(white,rgb(215, 243, 151));
+    justify-content: space-between;   
+    height: 400px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.lemon2{
+    margin-top: 30px;
+    height: 350px;
+    width: 250px;
+    margin-left: 200px;
+}
+.lemon3{
+    width: 300px;
+    margin-top: 110px;
+    margin-right:200px;
+}
+.lemon4{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(149, 151, 45);
+    font-weight: 900;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    
+}
+.price1{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mojito1{
+    display: flex;
+    background-image: radial-gradient(white,rgb(69, 176, 209));
+    justify-content: space-between;   
+    height: 400px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.mojito2{
+    margin-top: 110px;
+    margin-left: 250px;
+}
+.mojito3{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(17, 72, 175);
+    font-weight: 900;
+}
+.p2{
+    width: 300px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.price2{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mojito4{
+    margin-right: 200px;
 }

@@ -17,7 +17,7 @@ hr{
     margin-left: 500px;
     transition: 1s;
 }
-.flex2{
+.rosemilk1{
     display: flex;
     background-image: radial-gradient(white,rgb(243, 218, 222));
     justify-content: space-between;   
@@ -25,36 +25,126 @@ hr{
     margin: 50px;
     border-radius: 50px;
 }
-.flex3{
+.rosemilk2{
     margin-top: 30px;
     height: 350px;
     width: 250px;
     margin-left: 200px;
 }
-.menu1{
+.rosemilk3{
     width: 300px;
-    margin-top: 160px;
+    margin-top:110px;
     margin-right:200px;
 }
-span{
+.rosemilk4{
     text-transform: capitalize;
-    font-size: 30px;
+    font-size: 50px;
     color: rgb(143, 13, 104);
     font-weight: 900;
 }
-p{
+.p1{
+    font-size: 20px;
     font-weight: 700;
     font-family: sans-serif;
+    
 }
-.price{
+.price1{
     font-weight: bolder;
     font-size: 25px;
 }
-.mango{
+.mango1{
     display: flex;
     background-image: radial-gradient(white,rgb(241, 225, 154));
     justify-content: space-between;   
     height: 400px;
     margin: 50px;
     border-radius: 50px;
+}
+.mango2{
+    margin-top: 110px;
+    margin-left: 250px;
+}
+.mango3{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(219, 172, 40);
+    font-weight: 900;
+}
+.p2{
+    font-size: 20px;
+    width: 300px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.price2{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mango4{
+    margin-right: 200px;
+}
+.lemon1{
+    display: flex;
+    background-image: radial-gradient(white,rgb(215, 243, 151));
+    justify-content: space-between;   
+    height: 400px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.lemon2{
+    margin-top: 30px;
+    height: 350px;
+    width: 250px;
+    margin-left: 200px;
+}
+.lemon3{
+    width: 300px;
+    margin-top: 110px;
+    margin-right:200px;
+}
+.lemon4{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(149, 151, 45);
+    font-weight: 900;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    
+}
+.price1{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mojito1{
+    display: flex;
+    background-image: radial-gradient(white,rgb(69, 176, 209));
+    justify-content: space-between;   
+    height: 400px;
+    margin: 50px;
+    border-radius: 50px;
+}
+.mojito2{
+    margin-top: 110px;
+    margin-left: 250px;
+}
+.mojito3{
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(17, 72, 175);
+    font-weight: 900;
+}
+.p2{
+    width: 300px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.price2{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.mojito4{
+    margin-right: 200px;
 }
